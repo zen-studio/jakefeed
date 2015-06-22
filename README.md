@@ -13,6 +13,7 @@ Models:
   - body
 - comment
   - body
+  - node_id
 - target
   - name
   - body
