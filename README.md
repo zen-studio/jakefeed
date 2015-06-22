@@ -5,28 +5,28 @@ Jake the feed is a RoR app for small corp social net
 Models:
 
 - user
--   username
--   password
--   email
+  - username
+  - password
+  - email
 - post
--   title
--   body
+  - title
+  - body
 - comment
--   nody
+  - body
 - target
--   name
--   body
--   channel_id
+  - name
+  - body
+  - channel_id
 - channel
--   name
--   icon
--   feed_url
--   feed_format
+  - name
+  - icon
+  - feed_url
+  - feed_format
 - channel_item
--   body
+  - body
 - subscription
--   user_id
--   target_id
+  - user_id
+  - target_id
 
 Gems:
 - https://github.com/cmer/socialization
