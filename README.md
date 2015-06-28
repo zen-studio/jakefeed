@@ -30,6 +30,7 @@ Models:
   - image
   - title
   - url
+  - pub_date
 - subscription
   - user_id
   - target_id
