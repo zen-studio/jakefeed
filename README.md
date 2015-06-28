@@ -23,8 +23,13 @@ Models:
   - icon
   - feed_url
   - feed_format
+  - feed_formula
 - channel_item
   - body
+  - channel_id
+  - image
+  - title
+  - url
 - subscription
   - user_id
   - target_id
